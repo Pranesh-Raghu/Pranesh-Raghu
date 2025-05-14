@@ -2,6 +2,7 @@
 
 🌐 **Socials:**  
 [LinkedIn](https://www.linkedin.com/in/pranesh-r-0886b5308/) · praneshtaker@gmail.com
+
 💻 **Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
