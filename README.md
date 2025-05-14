@@ -24,7 +24,7 @@
 
 ### 🔥 Top Contributed Repository
 
-[![Expense_tracker](https://github-readme-stats.vercel.app/api/pin/?username=Pranesh-alt&repo=awesome-fastapi-template&theme=radical)](https://github.com/Pranesh-alt/Expense_tracker)
+[![Expense_tracker](https://github-readme-stats.vercel.app/api/pin/?username=Pranesh-alt&repo=Expense_tracker&theme=radical)](https://github.com/Pranesh-alt/Expense_tracker)
 
 
 > *The more you learn, the more you realize how little you know.*
