@@ -18,7 +18,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-alt&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-alt&layout=compact&theme=radical)
 
-### 🔥 Top Contributed Repository
+### Top Contributed Repository
 
 [![Expense_tracker](https://github-readme-stats.vercel.app/api/pin/?username=Pranesh-alt&repo=Expense_tracker&theme=radical)](https://github.com/Pranesh-alt/Expense_tracker)
 
