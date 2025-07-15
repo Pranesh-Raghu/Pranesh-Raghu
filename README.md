@@ -1,4 +1,7 @@
-# Pranesh 👋 
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=650&lines=Passionate+about+building+impactful+tech+products;Clean+UI%2FUX+%2B+Smooth+Animations)](https://github.com/Pranesh-alt)
+
+---
 
 🌐 **Socials:**   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranesh-r-0886b5308/)
