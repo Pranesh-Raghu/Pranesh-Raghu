@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Pranesh-alt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Pranesh" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=PRANESH" alt="Typing SVG" />
   </a>
 </p>
 
