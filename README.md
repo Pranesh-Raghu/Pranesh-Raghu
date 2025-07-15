@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=500&lines=Pranesh)](https://github.com/Pranesh-alt)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=5000&lines=Pranesh)](https://github.com/Pranesh-alt)
 
 ---
 
