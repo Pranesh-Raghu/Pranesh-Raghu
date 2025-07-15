@@ -12,11 +12,11 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-📊 **GitHub Stats:**
+📊 **GitHub Stats:**  
+![Pranesh GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranesh-alt&show_icons=true&theme=radical&cache_bust=RANDOM_NUMBER)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-alt&theme=radical&hide_border=true&cache_bust=RANDOM_NUMBER)](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-alt&layout=compact&theme=radical&cache_bust=RANDOM_NUMBER)
 
-![Pranesh GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranesh-alt&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-alt&theme=radical&hide_border=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-alt&layout=compact&theme=radical)
 
 ### Top Contributed Repository
 
