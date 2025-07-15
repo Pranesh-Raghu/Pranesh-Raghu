@@ -1,4 +1,4 @@
-Pranesh here 👋 
+# Pranesh here 👋 
 
 🌐 **Socials:**   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranesh-r-0886b5308/)
