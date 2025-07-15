@@ -1,5 +1,5 @@
-<!-- Typing SVG with Pranesh -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=650&lines=Hi%2C+I'm+Pranesh;Passionate+about+building+impactful+tech+products;Clean+UI%2FUX+%2B+Smooth+Animations)](https://github.com/Pranesh-alt)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=500&lines=Pranesh)](https://github.com/Pranesh-alt)
+
 ---
 
 🌐 **Socials:**   
