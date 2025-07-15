@@ -21,6 +21,3 @@
 ### Top Contributed Repository
 
 [![Expense_tracker](https://github-readme-stats.vercel.app/api/pin/?username=Pranesh-alt&repo=Expense_tracker&theme=radical)](https://github.com/Pranesh-alt/Expense_tracker)
-
-
-> *The more you learn, the more you realise how little you know.*
