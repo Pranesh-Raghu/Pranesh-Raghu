@@ -26,13 +26,14 @@
 
 ---
 
-### 🔥 GitHub Streak  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-alt&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=20250716)](https://git.io/streak-stats)
+### 🔥 GitHub Streak (Daily Mode)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-alt&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_bust=20250716)](https://git.io/streak-stats)
 
 ---
 
 ### 📊 GitHub Profile Stats  
 ![Pranesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranesh-alt&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&hide=contribs&theme=radical&rank_icon=github&cache_bust=20250716)
+
 
 
 
