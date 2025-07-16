@@ -26,6 +26,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-alt&layout=compact&langs_count=10&theme=radical&card_width=320&hide_progress=false&cache_bust=20250716)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-alt&theme=radical&mode=daily&hide_border=false&ring=F75C7E&fire=F75C7E&sideNums=FFB6C1&sideLabels=FFB6C1&dates=FFFFFF&date_format=j%20M%5B%2C%20Y%5D&currStreakLabel=FFDD00&border=DD2727&stroke=000000&cache_bust=20250716)](https://git.io/streak-stats)
 
+---
 
 ### Top Contributed Repository
 
