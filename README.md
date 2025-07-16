@@ -1,9 +1,4 @@
-<h2 align="center">
-  <a href="https://github.com/Pranesh-alt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=PRANESH" alt="Typing SVG" />
-  </a>
-</h2>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+there!+I'm+Pranesh;Passionate+Go+%26+Backend+Engineer)](https://github.com/Pranesh-alt)
 
 ---
 
