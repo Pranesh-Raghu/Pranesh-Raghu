@@ -19,34 +19,20 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-📊 **GitHub Stats:**  
-<!-- GitHub Stats - Pranesh -->
+<!-- 🌟 Enhanced GitHub Stats (Pranesh) -->
 
-### 🚀 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-alt&layout=compact&theme=radical&cache_bust=20250716)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-alt&theme=radical&hide_border=true&cache_bust=20250716)](https://git.io/streak-stats)
-
-![Pranesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranesh-alt&show_icons=true&theme=radical&cache_bust=20250716)
+### 🔤 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-alt&layout=compact&langs_count=8&card_width=320&theme=radical&cache_bust=20250716)
 
 ---
 
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pranesh-alt&theme=radical&no-frame=true&column=6&margin-w=10)
-
----
-
-### 📊 Contribution Graph
-
-[![Pranesh's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pranesh-alt&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+### 🔥 GitHub Streak  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-alt&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=20250716)](https://git.io/streak-stats)
 
 ---
 
-### 👀 Profile Visitors
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=Pranesh-alt&label=Profile+Views&color=FF69B4&style=flat)
+### 📊 GitHub Profile Stats  
+![Pranesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranesh-alt&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&hide=contribs&theme=radical&rank_icon=github&cache_bust=20250716)
 
 
 
