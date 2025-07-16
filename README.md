@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranesh-r-0886b5308/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneshtaker@gmail.com)
 
+---
 💻 **Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -19,6 +20,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+---
 
 ![Pranesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranesh-alt&theme=radical&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_title=false&line_height=26&rank_icon=github&custom_title=📈+Pranesh's+Developer+Stats&show=prs,issues,stars,commits&cache_bust=20250716)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-alt&layout=compact&langs_count=10&theme=radical&card_width=320&hide_progress=false&cache_bust=20250716)
