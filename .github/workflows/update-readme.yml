@@ -1,18 +1,19 @@
-name: 🧩 Update GitHub Stats
+name: 🔄 Auto-Refresh GitHub Stats
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # every 5 minutes
+    - cron: '*/5 * * * *'  # every 5 minutes
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-stats:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Stats with Token (this forces update)
-        run: echo "Triggered stats refresh with token."
+      - name: Refresh GitHub stats (trigger API with token)
+        run: echo "Triggered GitHub Stats refresh!"
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
