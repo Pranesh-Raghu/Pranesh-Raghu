@@ -21,14 +21,12 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranesh-alt&theme=radical&show_icons=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-alt&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-alt&theme=radical)](https://git.io/streak-stats)
 
-
+---
 
 ### Top Contributed Repository
 
