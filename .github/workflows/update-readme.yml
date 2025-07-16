@@ -2,7 +2,7 @@ name: 🧩 Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 1 * * *"  # runs daily at 6:30 AM IST
+    - cron: '*/5 * * * *' # every 5 minutes
   workflow_dispatch:
 
 jobs:
