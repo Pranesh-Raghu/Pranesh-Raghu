@@ -20,10 +20,34 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 📊 **GitHub Stats:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-alt&layout=compact&theme=radical&cache_bust=RANDOM_NUMBER)
+<!-- GitHub Stats - Pranesh -->
+
+### 🚀 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-alt&layout=compact&theme=radical&cache_bust=20250716)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-alt&theme=radical&hide_border=true&cache_bust=20250716)](https://git.io/streak-stats)
 
-![Pranesh GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranesh-alt&show_icons=true&theme=radical&cache_bust=RANDOM_NUMBER)  
+![Pranesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranesh-alt&show_icons=true&theme=radical&cache_bust=20250716)
+
+---
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pranesh-alt&theme=radical&no-frame=true&column=6&margin-w=10)
+
+---
+
+### 📊 Contribution Graph
+
+[![Pranesh's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pranesh-alt&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 👀 Profile Visitors
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Pranesh-alt&label=Profile+Views&color=FF69B4&style=flat)
+
 
 
 ### Top Contributed Repository
