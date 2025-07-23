@@ -24,9 +24,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranesh-alt&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10)
 
-> _i.e.,_ includes **private contributions**, **commit history**, and **language distribution**
-
-
 ---
 
 ### Top Contributed Repository
