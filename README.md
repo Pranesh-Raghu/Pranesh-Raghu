@@ -19,8 +19,13 @@
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-alt&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-alt&layout=compact&langs_count=5&theme=radical&hide=c,cpp,cython,c++&hide_border=true&border_radius=10)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranesh-alt&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10)
+
+> _i.e.,_ includes **private contributions**, **commit history**, and **language distribution**
+
 
 ---
 
