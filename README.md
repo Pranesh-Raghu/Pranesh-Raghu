@@ -18,20 +18,11 @@
 ---
 ## 📊 GitHub Stats
 
-<!-- GitHub Streak -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-alt&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-alt&layout=compact&langs_count=5&theme=radical&hide=c,cpp,cython,c++&hide_border=true&border_radius=10)
 
-<!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranesh-alt&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10)
-
-<!-- GitHub Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=Pranesh-alt&theme=radical&margin-w=10&margin-h=15&no-frame=true)
-
-<!-- GitHub Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranesh-alt&theme=radical&hide_border=true&area=true&border_radius=10)
 
 ---
 
