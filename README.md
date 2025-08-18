@@ -2,13 +2,13 @@
 
 ---
 
-🌐 **Socials:**   
+🌐 **SOCIALS:**   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranesh-r-0886b5308/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneshtaker@gmail.com)
 
 ---
-💻 **Tech Stack:**  
+💻 **TECH STACK:**  
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -18,7 +18,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
-## 📊 GitHub Stats
+## 📊 **GITHUB STATS**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-alt&theme=radical&hide_border=true&border_radius=10&mode=daily&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-alt&layout=compact&langs_count=5&theme=radical&hide=c,cpp,cython,c++&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,6 +26,6 @@
 
 ---
 
-### Top Contributed Repository
+### **TOP CONTRIBUTED REPOSITORY**
 
 [![Expense_tracker](https://github-readme-stats.vercel.app/api/pin/?username=Pranesh-alt&repo=Expense_tracker&theme=radical)](https://github.com/Pranesh-alt/Expense_tracker)
