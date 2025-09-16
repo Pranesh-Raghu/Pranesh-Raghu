@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+there!+I'm+Pranesh;)](https://github.com/Pranesh-alt)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+there!+I'm+Pranesh;)](https://github.com/Pranesh-Raghu)
 
 ---
 
@@ -20,12 +20,12 @@
 ---
 ## 📊 **GITHUB STATS**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-alt&theme=radical&hide_border=true&border_radius=10&mode=daily&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-alt&layout=compact&langs_count=5&theme=radical&hide=c,cpp,cython,c++&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranesh-alt&theme=radical&show_icons=true&count_private=true&rank_icon=github&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-Raghu&theme=radical&hide_border=true&border_radius=10&mode=daily&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-Raghu&layout=compact&langs_count=5&theme=radical&hide=c,cpp,cython,c++&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranesh-Raghu&theme=radical&show_icons=true&count_private=true&rank_icon=github&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### **TOP CONTRIBUTED REPOSITORY**
 
-[![Expense_tracker](https://github-readme-stats.vercel.app/api/pin/?username=Pranesh-alt&repo=Expense_tracker&theme=radical)](https://github.com/Pranesh-alt/Expense_tracker)
+[![Expense_tracker](https://github-readme-stats.vercel.app/api/pin/?username=Pranesh-Raghu&repo=Expense_tracker&theme=radical)](https://github.com/Pranesh-alt/Expense_tracker)
