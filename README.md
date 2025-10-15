@@ -1,6 +1,6 @@
 <!--💬 TYPING SVG GREETING -->
 
-<img align="right" width="30%" src="Assets/Programming.gif">
+<img align="right" width="30%" src="Programming.gif">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=27ae60&center=true&vCenter=true&width=600&lines=Hello,+I'm+Pranesh!;Full-Stack+Developer+|+Cloud+Enthusiast;Always+Learning+%26+Coding" alt="Typing SVG"/>
@@ -67,6 +67,15 @@
 </p>
 
 </details>
+
+<a href="https://github.com/Platane/snk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pranesh-Raghu/Pranesh-Raghu/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Pranesh-Raghu/Pranesh-Raghu/blob/output/github-snake.svg" />
+    <img width="804px" alt="github-snake" src="https://github.com/Pranesh-Raghu/Pranesh-Raghu/blob/output/github-snake-dark.svg" />
+  </picture>
+</a>
+
 
 
 <!--🎨 Visitor Count-->
