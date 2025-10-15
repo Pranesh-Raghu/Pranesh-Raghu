@@ -42,3 +42,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-Raghu&theme=github_dark&hide_border=true&no-bg=true&langs_count=8"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranesh-Raghu/Pranesh-Raghu/main/snake.svg" alt="GitHub Snake" />
+</p>
+
+
