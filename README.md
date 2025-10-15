@@ -2,35 +2,51 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=900&height=100&lines=Hi+there!+I'm+Pranesh;A+Backend+Developer+%26+Tech+Explorer" />
 </a>
 
----
+<img align="left" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="21%">
+<img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="21%">
 
-🌐 **SOCIALS:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranesh-r-0886b5308/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneshtaker@gmail.com)
+<h1 align="center">Hi 👋, I'm Pranesh Raghu</h1>
+<h3 align="center">A passionate Backend Developer from India</h3>
+<p align="center">
+  I love building APIs, working with Go & Python, and exploring new tech stacks 💻 to create cool projects 🛠️.
+</p>
 
----
-
-## Tech Stack: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "25"> </h2>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranesh-Raghu&label=Profile%20views&color=0e75b6&style=flat" alt="Pranesh profile views" />
 </p>
 
 ---
 
-## 📊 GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="23">
+## 🌐 Connect with me:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-Raghu&theme=radical&hide_border=true&border_radius=10&mode=daily&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-Raghu&layout=compact&langs_count=5&theme=radical&hide_border=true&border_radius=10)
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Pranesh-Raghu&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=10)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranesh-r-0886b5308/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="mailto:praneshtaker@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" height="30" width="40" /></a>
+  <a href="https://github.com/Pranesh-Raghu"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+</p>
 
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/go-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/fastapi-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/express-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50"/>
+</div>
+
+---
+
+## 🔭 Currently
+
+- Open to **new opportunities**
+- Learning **DevOps & Cloud technologies**
+- Ask me about **Go, Python, NodeJS, MySQL**
 
 ---
 
@@ -39,5 +55,28 @@
 
 ---
 
-![](./bottom.svg)
+## 🎧 Currently Listening on Spotify
+[![Spotify](https://novatorem-beta.vercel.app/api/spotify)](https://open.spotify.com/user/50avazzeh8nlat0p9gojkz70g?si=06c92ec885954e8a)
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Pranesh-Raghu&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranesh-Raghu&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-Raghu&layout=compact&langs_count=5&theme=radical&hide_border=true&border_radius=10">
+</p>
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> — say hi and I’ll be happy to chat! :)</em>
+
+<p align="right">Created with 🧡 by <a href="https://github.com/Pranesh-Raghu">Pranesh Raghu</a></p>
