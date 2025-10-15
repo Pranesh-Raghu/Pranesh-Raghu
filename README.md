@@ -6,8 +6,21 @@
 <!--🌐 Social Media -->
 <p align="center">
   <a href="https://www.linkedin.com/in/pranesh-raghu"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" width="40"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://user-images.githubusercontent.com/184528214/8f168ffd-5a4c-4d30-8d6b-917568924fbb.png" width="40"/></a>
 </p>
+
+<!--🛠️ Languages & Tools-->
+<details>
+  <summary><h3>💻 Languages & Tools</h3></summary>
+  <p align="center">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/>
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/>
+    <img alt="Go"    src="https://skillicons.dev/icons?i=go"     width="48" height="48" style="margin:0 8px;" />
+    <img alt="Node"  src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" style="margin:0 8px;" />
+    <img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" style="margin:0 8px;" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/>
+    <img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="48" height="48" style="margin:0 8px;" />
+  </p>
+</details>
 
 <!--💻 GitHub Stats & Streak -->
 <p align="center">
@@ -23,23 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-Raghu&theme=github_dark&hide_border=true&no-bg=true&langs_count=8"/>
 </p>
 
-
-<!--🛠️ Languages & Tools-->
-<details>
-  <summary><h3>💻 Languages & Tools</h3></summary>
-  <p align="center">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/>
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/>
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"/>
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/>
-    <img src="https://techstack-generator.vercel.app/node-icon.svg" width="50"/>
-    <img src="https://techstack-generator.vercel.app/fastapi-icon.svg" width="50"/>
-    <img src="https://techstack-generator.vercel.app/go-icon.svg" width="50"/>
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/>
-    <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="50"/>
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/>
-  </p>
-</details>
 
 <!--🏆 Competitive Coding Profiles -->
 <details>
