@@ -1,0 +1,33 @@
+name: GitHub Snake
+on:
+  schedule:
+    - cron: '0 0 * * *'  # daily at midnight
+  workflow_dispatch: # optional manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false # important to allow push
+
+      - name: Generate GitHub Snake
+        uses: Platane/snk@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: dark
+          file: snake.svg
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: Commit and push snake
+        run: |
+          git checkout main
+          git add snake.svg
+          git commit -m "Update GitHub Snake" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
