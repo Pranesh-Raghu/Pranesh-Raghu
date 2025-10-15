@@ -1,0 +1,21 @@
+name: "GitHub Snake"
+on:
+  push:
+    branches:
+      - main  # or your default branch
+  schedule:
+    - cron: '0 0 * * *' # optional: runs daily
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Snake
+        uses: Platane/snk@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: ./docs/github-snake.svg
+          theme: dark
