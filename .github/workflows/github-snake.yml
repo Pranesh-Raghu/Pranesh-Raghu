@@ -1,11 +1,10 @@
-name: "GitHub Snake"
-
+name: GitHub Snake
 on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily at midnight
   push:
     branches:
-      - main  # or your default branch
-  schedule:
-    - cron: '0 0 * * *' # optional: runs daily at midnight
+      - main # replace with your default branch
 
 jobs:
   build:
@@ -14,24 +13,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Snake (Dark)
+      - name: Generate GitHub Snake
         uses: Platane/snk@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: ./output/github-snake-dark.svg
-          theme: dark
-
-      - name: Generate GitHub Snake (Light)
-        uses: Platane/snk@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: ./output/github-snake.svg
-          theme: light
-
-      - name: Commit and Push SVGs
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add ./output/github-snake*.svg
-          git commit -m "Update GitHub Snake SVGs" || echo "No changes to commit"
-          git push
+          theme: dark  # optional: dark, light, or colorful
