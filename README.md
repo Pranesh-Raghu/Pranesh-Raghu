@@ -68,6 +68,15 @@
 
 </details>
 
+<a href="https://github.com/Platane/snk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pranesh-Raghu/Pranesh-Raghu/blob/main/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Pranesh-Raghu/Pranesh-Raghu/blob/main/output/github-snake.svg" />
+    <img width="804px" alt="github-snake" src="https://github.com/Pranesh-Raghu/Pranesh-Raghu/blob/main/output/github-snake-dark.svg" />
+  </picture>
+</a>
+
+
 <!--🎨 Visitor Count-->
 <p align="center">
   <img src="https://count.getloli.com/@Pranesh-Raghu?name=Pranesh-Raghu&theme=green&darkmode=1"/>
