@@ -29,13 +29,19 @@
 </p>
 
 ---
-<!--💻 GitHub Stats & Streak -->
+<!-- 💻 GitHub Stats & Streak -->
 <p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=Pranesh-Raghu&theme=github_dark_tritanopia&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
+  <img 
+    src="https://gh-readme-profile.vercel.app/api?username=Pranesh-Raghu&theme=github_dark_tritanopia&border_radius=15&hide_border=true&bg_color=0D1117" 
+    alt="GitHub Stats"
+  />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranesh-Raghu&theme=github-dark-blue&hide_border=true" />
-  <br>
+  <img 
+    src="https://streak-stats.demolab.com?user=Pranesh-Raghu&theme=github-dark-blue&hide_border=true&background=0D1117" 
+    alt="GitHub Streak"
+  />
 </p>
+
 
 <!--📊 Top Languages -->
 <p align="center">
