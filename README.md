@@ -26,14 +26,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="23">
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-Raghu&theme=radical&hide_border=true&border_radius=10&mode=daily&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pranesh-Raghu&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=10">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-Raghu&layout=compact&langs_count=5&theme=radical&hide_border=true&border_radius=10">
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-Raghu&theme=radical&hide_border=true&border_radius=10&mode=daily&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
