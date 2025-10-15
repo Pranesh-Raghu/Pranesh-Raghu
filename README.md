@@ -40,12 +40,10 @@
     src="https://streak-stats.demolab.com?user=Pranesh-Raghu&theme=github-dark-blue&hide_border=true&background=0D1117" 
     alt="GitHub Streak"
   />
-</p>
-
-
-<!--📊 Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-Raghu&theme=github_dark&hide_border=true&no-bg=true&langs_count=8"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-Raghu&theme=github_dark&hide_border=true&bg_color=0D1117&layout=compact&langs_count=5" 
+    alt="Top Languages"
+  />
 </p>
 
 
