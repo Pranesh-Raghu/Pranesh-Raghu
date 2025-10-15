@@ -1,31 +1,47 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+there!+I'm+Pranesh;)](https://github.com/Pranesh-Raghu)
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=900&height=100&lines=Hi+there!+I'm+Pranesh;A+Backend+Developer+%26+Tech+Explorer" />
+</a>
 
 ---
 
-🌐 **SOCIALS:**   
-
+🌐 **SOCIALS:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranesh-r-0886b5308/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneshtaker@gmail.com)
 
 ---
-💻 **TECH STACK:**  
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+## 🎨 Tech Stack:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
 
 ---
-## 📊 **GITHUB STATS**
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranesh-Raghu&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-Raghu&layout=compact&langs_count=5&theme=radical&hide_border=true&border_radius=10">
+</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranesh-Raghu&theme=radical&hide_border=true&border_radius=10&mode=daily&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-Raghu&layout=compact&langs_count=5&theme=radical&hide=c,cpp,cython,c++&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranesh-Raghu&theme=radical&show_icons=true&count_private=true&rank_icon=github&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### **TOP CONTRIBUTED REPOSITORY**
-
+## 🎯 Top Project
 [![Expense_tracker](https://github-readme-stats.vercel.app/api/pin/?username=Pranesh-Raghu&repo=Expense_tracker&theme=radical)](https://github.com/Pranesh-alt/Expense_tracker)
+
+---
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
