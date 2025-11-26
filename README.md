@@ -41,7 +41,7 @@
     alt="GitHub Streak"
   />
   <img 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-Raghu&theme=github_dark&hide_border=true&bg_color=0D1117&layout=compact&langs_count=5&hide=c,cpp"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-Raghu&theme=github_dark&hide_border=true&bg_color=0D1117&layout=compact&hide=C,C%2B%2B"
   alt="Top Languages"
   />
 </p>
