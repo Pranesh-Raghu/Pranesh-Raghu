@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=27ae60&center=true&vCenter=true&width=600&lines=Hello,+I'm+Pranesh!;" alt="Typing SVG"/>
 </p>
 
-<img align="right" width="30%" src="Programming.gif">
-
 <!--🌐 Social Media -->
 <p align="center">
   <a href="https://www.linkedin.com/in/pranesh-raghu"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" width="40"/></a>
